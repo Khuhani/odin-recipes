@@ -1,0 +1,19 @@
+/*styles.css*/
+h1{
+    font-family: "Lucida Console", Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    text-align: center;
+    font-weight: 600;
+    font-style: italic;
+}
+
+img{
+    height: auto;
+    width: 400px;
+}
+
+.butt1,.butt2,.butt3,.butt4{
+    background-color: rgb(255, 176, 149);
+    color: whitesmoke;
+}
+

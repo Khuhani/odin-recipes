@@ -1,0 +1,18 @@
+/*styles.css*/
+.pilau,h2{
+    font-family: cursive;
+    color: burlywood;
+    text-align: center;
+    font-size: 45px;
+}
+
+h2{
+    font-size: 30px;
+}
+
+p,ul,ol{
+    background-color: burlywood;
+    color: whitesmoke;
+    font-family: cursive;
+    font-size:20px;
+}

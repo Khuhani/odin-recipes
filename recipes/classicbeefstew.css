@@ -1,0 +1,17 @@
+/*styles.css*/
+#beef,h2{
+    text-align: center;
+    color: tomato;
+    font-family: cursive;
+    font-size: 45px;
+}
+
+h2{
+    font-size: 30px;
+}
+
+ul,ol{
+    background-color: tomato;
+    color: whitesmoke;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}

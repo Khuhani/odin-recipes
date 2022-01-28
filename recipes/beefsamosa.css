@@ -1,0 +1,16 @@
+/*styles.css*/
+#samosa,h2{
+    font-family:cursive;
+    color: limegreen;
+    text-align: center;
+    font-size: 45px;
+}
+
+h2{
+    font-size: 30px;
+}
+
+p,ol,ul{
+    color: whitesmoke;
+    background-color:limegreen;
+}
